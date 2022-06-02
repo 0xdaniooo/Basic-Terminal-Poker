@@ -9,7 +9,7 @@ The base of the game is built off of this YouTube series: https://www.youtube.co
 - Specify the amount you're playing for
 - Calling, Raising, Folding and going All In
 - Automatically calculates your hand combination
-- $$ Winning $$
+- !!Winning!!
 
 ## Things I've learnt
 - Using Visual Studio (debugging, refactoring code and general usage)
