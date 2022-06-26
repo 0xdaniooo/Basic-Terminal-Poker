@@ -16,3 +16,23 @@ The base of the game is built off of this YouTube series: https://www.youtube.co
 - Brushing up on my C# skills
 - Splitting tasks up into smaller subtasks to make them more manageable
 - How the game of Poker is built from the ground up
+
+# Usage
+```
+- Run the executable found in the Poker folder
+```
+
+# Setup
+![Setup](/Imgs/1.png)
+
+# Interactive Options
+![Setup](/Imgs/2.png)
+
+# Community Cards
+![Setup](/Imgs/3.png)
+
+# Raising
+![Setup](/Imgs/4.png)
+
+# Winning
+![Setup](/Imgs/5.png)
