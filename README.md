@@ -1,8 +1,9 @@
 # Basic-Terminal-Poker
 As the name suggests, this is a basic Poker game you can play in your terminal. This is a very barebones design as it was intended for the purposes of teaching myself how Poker works and building a base for a future GUI version of the app.
 
-# Inspiration
-The base of the game is built off of this YouTube series: https://www.youtube.com/watch?v=Au31WqDtXYI
+## Inspiration
+The base of the game is built off of this YouTube series: 
+- https://www.youtube.com/watch?v=Au31WqDtXYI
 
 ## Features
 - Ability to add players
@@ -19,20 +20,25 @@ The base of the game is built off of this YouTube series: https://www.youtube.co
 
 # Usage
 ```
-- Run the executable found in the Poker folder
+- Run the Poker-test.exe executable binary found in the Poker folder:
+  .\Poker-test.exe (or double click it in the file explorer)
 ```
 
-# Setup
+## YouTube Video Showcase
+If you want to see the program in action click the link below
+- https://www.youtube.com/watch?v=0w7nqefX_fw
+
+## Setup
 ![Setup](/Imgs/1.png)
 
-# Interactive Options
+## Interactive Options
 ![Setup](/Imgs/2.png)
 
-# Community Cards
+## Community Cards
 ![Setup](/Imgs/3.png)
 
-# Raising
+## Raising
 ![Setup](/Imgs/4.png)
 
-# Winning
+## Winning
 ![Setup](/Imgs/5.png)
