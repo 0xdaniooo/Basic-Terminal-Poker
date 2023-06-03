@@ -1,9 +1,8 @@
 # Basic-Terminal-Poker
-A basic Poker game you can play in your terminal. Featuring a barebones design as it was intended for the purposes of teaching myself how Poker for a future GUI implementation.
+A basic Poker game you can play in your terminal. Featuring a barebones design as it was intended for the purposes of teaching myself how Poker worked for a future GUI implementation.
 
-## Inspiration
-The base of the game is built off of this YouTube series: 
-- https://www.youtube.com/watch?v=Au31WqDtXYI
+## About
+Poker had been something that was heavily on my mind after playing it with friends and family. The rules and way of playing was quite complex for me at first so I decided to speed up my learning by building this program and learning all the intricacies by hand. The base of the game is built off of a YouTube series (https://www.youtube.com/watch?v=Au31WqDtXYI) which I took and expanded to allow for a dynamic experience. 
 
 ## Features
 - Ability to add players
