@@ -1,6 +1,8 @@
 # Basic-Terminal-Poker
 A basic Poker game you can play in your terminal. Featuring a barebones design as it was intended for the purposes of teaching myself how Poker worked for a future GUI implementation.
 
+See it in action here: https://www.youtube.com/watch?v=0w7nqefX_fw
+
 ## About
 Poker had been something that was heavily on my mind after playing it with friends and family. The rules and way of playing was quite complex for me at first so I decided to speed up my learning by building this program and learning all the intricacies by hand. The base of the game is built off of a YouTube series (https://www.youtube.com/watch?v=Au31WqDtXYI) which I took and expanded to allow for a dynamic experience. 
 
@@ -22,10 +24,6 @@ Poker had been something that was heavily on my mind after playing it with frien
 - Run the Poker-test.exe executable binary found in the Poker folder:
   .\Poker-test.exe (or double click it in the file explorer)
 ```
-
-## YouTube Video Showcase
-If you want to see the program in action click the link below
-- https://www.youtube.com/watch?v=0w7nqefX_fw
 
 ## Setup
 ![Setup](/Imgs/1.png)
